@@ -6,11 +6,11 @@
   - [Realm Rush](https://github.com/Shnackle/Realm-Rush)
   - [Argon Assault](vhttps://github.com/Shnackle/Argon-Assault)
 
-<h2>Custom Game Engine:</h2>]
+<h2>Custom Game Engine:</h2>
 
   - [Pillbox](https://github.com/CollinScott37/Pillbox)
 
-<hz>Data Mining Project:</h2>
+<h2>Data Mining Project:</h2>
 
   - [KickStarter Prediction](https://github.com/CollinScott37/ACG)
 
