@@ -9,7 +9,7 @@
   - [Realm Rush](https://github.com/Shnackle/Realm-Rush)
     - Small tower defense game where you try to survive as long as possible.
   - [Argon Assault](https://github.com/Shnackle/Argon-Assault)
-    - Small old school space fighting game.https://github.com/CollinScott37/CollinScott37/settings
+    - Small old school space fighting game.
 
 <h2>Custom Game Engine:</h2>
 
