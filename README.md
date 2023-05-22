@@ -9,7 +9,7 @@
   - [Realm Rush](https://github.com/Shnackle/Realm-Rush)
     - Small tower defense game where you try to survive as long as possible.
   - [Argon Assault](https://github.com/Shnackle/Argon-Assault)
-    - Small old school space fighting game.
+    - Small old school space fighting game.https://github.com/CollinScott37/CollinScott37/settings
 
 <h2>Custom Game Engine:</h2>
 
@@ -19,6 +19,6 @@
 <h2>Data Mining Project:</h2>
 
   - [KickStarter Prediction](https://github.com/CollinScott37/ACG)
-    - Used data mining techniques to make model to predict rather a Kickstarter would be successful or not.
+    - Used data mining techniques to make a model to predict rather a Kickstarter would be successful or not.
 
 
