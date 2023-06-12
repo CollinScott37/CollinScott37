@@ -2,7 +2,7 @@
 
   - [Grandma Wrestling](https://github.com/GonzaloJMora/GrandmaWrestling)
     - A fun local multiplayer arene fighting game where you plays as grandmas. Your goal is to knock your fellow grandmas into the pit while avoiding all the chaos elements.
-  - [Electric Dusk](https://github.com/afamdrank/ElectricDusk)
+  - [Electric Dusk](https://number14jabroni.itch.io/electric-dusk)
     - A 3D action adventure RPG set in a cyberpunk metropolis full of superheroes. Play as Dawn, a superhero who can control lightning, as you sort out the city’s conflict between the superheroes and supervillains.
   - [Zombie Runner](https://github.com/Shnackle/Zombie-Runner)
     - Small game where you need to escape the some zombies.
